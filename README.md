@@ -1,5 +1,8 @@
 # Awesome Design Resource
 
+## How Learning
+1. [100 DAYS CSS CHALLENGE](https://100dayscss.com/)
+
 ## Tempelate PowerPoint
 1. [SlideGo](https://slidesgo.com/)
 
